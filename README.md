@@ -11,3 +11,7 @@ The _js_ folder is may contain _javascript_ files in subsequent version of the s
 
 ## Languages and Tools
 This is a site written in HTML, CSS.
+
+## Credits
+Photos: https://pixabay.com/
+Fonts: https://fonts.google.com
